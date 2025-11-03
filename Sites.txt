@@ -1,0 +1,4 @@
+YGO_RushDuel_Sites:
+
+BoosterPack:
+https://rushcard.io/pack-sim/#
